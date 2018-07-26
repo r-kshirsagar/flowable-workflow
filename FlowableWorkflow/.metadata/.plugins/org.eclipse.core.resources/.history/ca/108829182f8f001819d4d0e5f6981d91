@@ -1,0 +1,16 @@
+package org.flowable;
+
+import org.flowable.engine.delegate.DelegateExecution;
+import org.flowable.engine.delegate.JavaDelegate;
+
+public class CheckLeaves implements JavaDelegate {
+
+	public void execute(DelegateExecution execution) {
+		// TODO Auto-generated method stub
+		System.out.println(execution.getVariable("employee")+" has 5 leaves available");
+		
+		
+		
+	}	
+
+}

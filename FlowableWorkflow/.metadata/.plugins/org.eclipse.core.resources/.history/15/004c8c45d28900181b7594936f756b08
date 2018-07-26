@@ -1,0 +1,7 @@
+package org.flowable;
+
+import org.flowable.engine.delegate.JavaDelegate;
+
+public class CallExternalSystemDelegate implements JavaDelegate {
+
+}

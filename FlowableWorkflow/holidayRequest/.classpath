@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.eclipse.graphiti.mm_0.13.1.v20160830-1309.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.eclipse.graphiti.pattern_0.13.1.v20160830-1309.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.eclipse.graphiti.ui_0.13.1.v20160830-1309.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.eclipse.graphiti_0.13.1.v20160830-1309.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.flowable.designer.eclipse_5.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.flowable.designer.gui_5.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.flowable.designer.help_5.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.flowable.designer.integration_5.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.flowable.designer.libs_5.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.flowable.designer.util_5.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Music/plugins/org.flowable.designer.validation.bpmn20_5.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/flowable-bpmn-converter-6.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/flowable-bpmn-model-6.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/flowable-engine-common-api-6.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/jackson-core-2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/jackson-databind-2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/jcl-over-slf4j-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/joda-time-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/K.Rohit/Desktop/jar_files/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

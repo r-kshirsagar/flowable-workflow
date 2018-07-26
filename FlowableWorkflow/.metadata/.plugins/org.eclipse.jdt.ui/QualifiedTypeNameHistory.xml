@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.flowable.engine.ProcessEngineConfiguration"/>
+<fullyQualifiedTypeName name="org.flowable.engine.impl.cfg.StandaloneProcessEngineConfiguration"/>
+<fullyQualifiedTypeName name="org.flowable.engine.ProcessEngine"/>
+<fullyQualifiedTypeName name="org.flowable.engine.RepositoryService"/>
+<fullyQualifiedTypeName name="org.flowable.engine.repository.Deployment"/>
+<fullyQualifiedTypeName name="org.flowable.engine.repository.ProcessDefinition"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="org.flowable.engine.RuntimeService"/>
+<fullyQualifiedTypeName name="org.flowable.engine.runtime.ProcessInstance"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.flowable.engine.TaskService"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.flowable.engine.delegate.DelegateExecution"/>
+<fullyQualifiedTypeName name="org.flowable.engine.HistoryService"/>
+<fullyQualifiedTypeName name="org.flowable.engine.history.HistoricActivityInstance"/>
+<fullyQualifiedTypeName name="org.flowable.engine.task.Task"/>
+<fullyQualifiedTypeName name="org.flowable.task.api.Task"/>
+<fullyQualifiedTypeName name="org.flowable.task.api.TaskInfo"/>
+</qualifiedTypeNameHistroy>
